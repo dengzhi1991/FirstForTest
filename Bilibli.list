@@ -1,10 +1,2 @@
 # > Bilibili+
-USER-AGENT,bilibili+*,Bilibili
-DOMAIN-SUFFIX,bamgrid.com,Bilibili
-DOMAIN-SUFFIX,bilibiliplus.com,Bilibili
-DOMAIN-SUFFIX,bilibili-plus.net,Bilibili
-DOMAIN-SUFFIX,bilibilistreaming.com,Bilibili
 DOMAIN-SUFFIX,bilibili.com,Bilibili
-DOMAIN,cdn.registerbilibili.go.com,Bilibili
-DOMAIN-SUFFIX,cm.bilibili.com,Bilibili
-DOMAIN-SUFFIX,miniapp.bilibili.com,Bilibili
